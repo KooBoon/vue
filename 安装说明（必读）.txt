@@ -1,0 +1,6 @@
+
+安装命令：
+先执行 npm i
+
+启动项目：
+npm run serve
